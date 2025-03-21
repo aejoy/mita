@@ -22,7 +22,7 @@ go get github.com/aejoy/mita
 
 <h2 align="center">Usage</h2>
 
-A simple example of converting PNG to Avif:
+A simple example of converting PNG to AVIF:
 
 ```go
 package main
